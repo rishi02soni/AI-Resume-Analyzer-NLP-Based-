@@ -66,15 +66,19 @@ pip install -r requirements.txt
 streamlit run app.py
 
 🎯 How It Works
-User uploads a resume (PDF)
-Text is extracted using PyPDF2
-Skills are identified from the resume
-Compared with predefined job role skills
+- User uploads a resume (PDF)
+- Text is extracted using PyPDF2
+- Skills are identified from the resume
+- Compared with predefined job role skills
+
+```
 Outputs:
-Score (out of 100)
-Matched skills
-Missing skills
-Suggestions
+- Score (out of 100)
+- Matched skills
+- Missing skills
+- Suggestions
+
+```
 🧠 Core Concepts Used
 Natural Language Processing (Basic)
 File Handling (PDF Parsing)
