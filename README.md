@@ -109,3 +109,20 @@ If you like this project:
 🌟 Star the repository
 🍴 Fork it
 📢 Share with others
+
+
+---
+
+## 🔥 Pro Tips (Very Important)
+
+👉 Replace:
+- `rishi02soni`  
+- Add your **own demo GIF (very powerful for recruiters)**  
+
+---
+
+If you want next level 🚀  
+I can:
+- Add **Spacy + ML version (FAANG-level project)**  
+- Create **LinkedIn post to showcase this**  
+- Help you deploy it live 🌐
